@@ -30,7 +30,27 @@
     .title{font-size:clamp(28px, 4vw, 46px); line-height:1.05; font-weight:800; margin:0}
     .subtitle{margin:10px 0 22px; color:var(--muted); font-size:clamp(14px, 2.3vw, 18px)}
     .cta{display:flex; align-items:center; justify-content:center; gap:12px; margin:22px 0 10px;}
-    .btn{--h:58px; height:var(--h); padding:0 26px; border:none; border-radius:16px; font-size:18px; font-weight:700; letter-spacing:.3px; color:#0b0f14; cursor:pointer; text-decoration:none; background:linear-gradient(135deg, var(--acc), var(--acc2)); box-shadow:0 14px 28px rgba(127,204,255,.28), inset 0 0 0 1px rgba(255,255,255,.25); transition: transform .15s ease, box-shadow .2s ease, filter .2s ease;}
+.btn {
+  --h:58px; 
+  height:var(--h); 
+  padding:0 26px; 
+  border:none; 
+  border-radius:16px; 
+  font-size:18px; 
+  font-weight:700; 
+  letter-spacing:.3px; 
+  color:#0b0f14; 
+  cursor:pointer; 
+  text-decoration:none; 
+  background:linear-gradient(135deg, var(--acc), var(--acc2)); 
+  box-shadow:0 14px 28px rgba(127,204,255,.28), inset 0 0 0 1px rgba(255,255,255,.25); 
+  transition: transform .15s ease, box-shadow .2s ease, filter .2s ease;
+
+  display:flex;              /* добавлено */
+  align-items:center;        /* выравнивание по вертикали */
+  justify-content:center;    /* выравнивание по горизонтали */
+}
+
     .btn:hover{transform: translateY(-2px); filter:brightness(1.05); box-shadow:0 18px 36px rgba(127,204,255,.36)}
     .btn:active{transform: translateY(0)}
     .meta{display:flex; gap:18px; justify-content:center; margin-top:8px; color:var(--muted); font-size:14px}
