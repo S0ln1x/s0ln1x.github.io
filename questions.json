@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Quels types d'espèces chimiques trouve-t-on dans la nature ?",
+    "answer": "Atome - Molécule - Ion"
+  },
+  {
+    "question": "Quels sont les ions responsables de l’acidité ?",
+    "answer": "ions hydrogène de formule H+"
+  },
+  {
+    "question": "Quels sont les ions responsables de la basicité ?",
+    "answer": "ions hydroxyde de formule HO-"
+  },
+  {
+    "question": "Qu'est-ce qu'un atome ?",
+    "answer": "Plus petite particule pouvant se combiner chimiquement - espèce chimique neutre électriquement"
+  },
+  {
+    "question": "Qu'est-ce qu'un ion ?",
+    "answer": "Espèce chimique chargée électriquement"
+  },
+  {
+    "question": "De quoi est constitué un atome ?",
+    "answer": "Noyau + Électrons"
+  },
+  {
+    "question": "De quoi est constitué le noyau d'un atome ?",
+    "answer": "Nucléons = Protons + Neutrons"
+  },
+  {
+    "question": "Qu'est-ce qu'un électron ?",
+    "answer": "Particule - charge électrique négative"
+  },
+  {
+    "question": "Qu'est-ce qu'un neutron ?",
+    "answer": "Particule - neutre électriquement"
+  },
+  {
+    "question": "Qu'est-ce qu'un proton ?",
+    "answer": "Particule - charge électrique positive"
+  },
+  {
+    "question": "Qu'est-ce qu'un nucléon ?",
+    "answer": "Famille des particules du noyau"
+  },
+  {
+    "question": "Que signifie Z dans AZX ?",
+    "answer": "Numéro atomique - Nombre de protons"
+  },
+  {
+    "question": "Que signifie A dans AZX ?",
+    "answer": "Nombre de masse - Nombre de nucléons"
+  },
+  {
+    "question": "Comment trouver le nombre de neutrons ?",
+    "answer": "N = A - Z"
+  },
+  {
+    "question": "Comment trouver le nombre de protons ?",
+    "answer": "Z"
+  },
+  {
+    "question": "Comment trouver le nombre d'électrons dans un atome ?",
+    "answer": "Z"
+  },
+  {
+    "question": "Où trouve-t-on la valeur de Z quand on cherche la composition d'une particule ?",
+    "answer": "Classification périodique"
+  },
+  {
+    "question": "Où trouve-t-on la valeur de A quand on cherche la composition d'une particule ?",
+    "answer": "Classification périodique"
+  },
+  {
+    "question": "Quel est le symbole du fer ?",
+    "answer": "Fe"
+  },
+  {
+    "question": "Quel est le symbole du zinc ?",
+    "answer": "Zn"
+  },
+  {
+    "question": "Quel est le symbole de l’aluminium ?",
+    "answer": "Al"
+  },
+  {
+    "question": "Quelle est la formule chimique du dihydrogène ?",
+    "answer": "H2"
+  },
+  {
+    "question": "Quelle est l’influence de l'augmentation de la température sur le niveau des océans ?",
+    "answer": "Augmente"
+  },
+  {
+    "question": "Quelle est l’influence de la température sur la masse volumique ?",
+    "answer": "Diminue si température augmente"
+  },
+  {
+    "question": "Quelle est la conséquence de la dissolution du dioxyde de carbone dans l’océan ?",
+    "answer": "Acidification des océans"
+  },
+  {
+    "question": "Pourquoi le fer rouille-t-il ?",
+    "answer": "Transformation chimique avec l'eau et le dioxygène"
+  },
+  {
+    "question": "Comment mesurer le pH d'une solution ?",
+    "answer": "pH-mètre"
+  },
+  {
+    "question": "Qu'est-ce qu'une molécule ?",
+    "answer": "Assemblage d'atomes"
+  },
+  {
+    "question": "Quel est le symbole atomique de l'Azote ?",
+    "answer": "N"
+  },
+  {
+    "question": "Comment lire la formule chimique d'une molécule ?",
+    "answer": "Symbole des atomes + nombre en indice"
+  },
+  {
+    "question": "Quelle est la formule chimique du Méthane ?",
+    "answer": "CH4"
+  },
+  {
+    "question": "Quelle est la formule chimique du Diazote ?",
+    "answer": "N2"
+  },
+  {
+    "question": "Quelle est la formule chimique du Dioxygène ?",
+    "answer": "O2"
+  },
+  {
+    "question": "Quelle relation mathématique permet de calculer la masse volumique en fonction de la masse et du volume ?",
+    "answer": "ρ = m ÷ V"
+  },
+  {
+    "question": "Pourquoi ajoute-t-on des coefficients dans l'équation de réaction modélisant une transformation chimique ?",
+    "answer": "Respect de la conservation des atomes"
+  },
+  {
+    "question": "Quelles sont les structures de notre Univers ?",
+    "answer": "Systèmes planétaires – Galaxies – Amas – Superamas"
+  },
+  {
+    "question": "Quel modèle décrit l'évolution de notre Univers depuis son apparition ?",
+    "answer": "Big-Bang"
+  },
+  {
+    "question": "Comment évolue notre Univers ?",
+    "answer": "Expansion"
+  },
+  {
+    "question": "Quand s'est formé notre Univers ?",
+    "answer": "13,7 milliards d’années"
+  },
+  {
+    "question": "Qu'est-ce qu'une galaxie ?",
+    "answer": "Regroupement de milliards d'étoiles"
+  },
+  {
+    "question": "Comment s'appelle notre galaxie ?",
+    "answer": "Voie Lactée"
+  },
+  {
+    "question": "Comment s'est formé le système solaire ?",
+    "answer": "A partir de gaz et de poussières"
+  },
+  {
+    "question": "Quand s'est formé le système solaire ?",
+    "answer": "4,6 milliards d'années"
+  },
+  {
+    "question": "Quelle relation mathématique permet de calculer la vitesse en fonction de la distance et de la durée ?",
+    "answer": "v = d ÷ t"
+  },
+  {
+    "question": "Comment s'appelle le phénomène qui explique que la Terre et le Soleil s'attirent à distance ?",
+    "answer": "Gravitation"
+  },
+  {
+    "question": "Qu'est-ce que la gravitation ?",
+    "answer": "Phénomène qui engendre l’attraction entre 2 objets"
+  },
+  {
+    "question": "De quelles grandeurs physiques dépend la force de gravitation ?",
+    "answer": "Masse des objets – Distance entre le centre des objets"
+  },
+  {
+    "question": "Comment modéliser une action mécanique ?",
+    "answer": "Force"
+  },
+  {
+    "question": "Quelles sont les caractéristiques à donner pour décrire une force ?",
+    "answer": "Point d’application – Direction – Sens – Valeur"
+  },
+  {
+    "question": "Quels peuvent être les effets d'une action mécanique ?",
+    "answer": "Mise en mouvement - Modification du mouvement - Déformation"
+  }
+]
